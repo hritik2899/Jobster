@@ -173,9 +173,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Rohit Kumar - [Rohit Kumar](https://www.linkedin.com/in/rohit-kumar-8ba1241bb/) - 20je0808@me.iitism.ac.in
+Hritik Gupta - [Hritik Gupta] - hritik.gupta.2899@gmail.com
 
-Project Link: [https://github.com/amRohitKumar/jobster](https://github.com/amRohitKumar/jobster)
+Project Link: [https://github.com/hritik2899/Jobster/](https://github.com/hritik2899/Jobster/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
